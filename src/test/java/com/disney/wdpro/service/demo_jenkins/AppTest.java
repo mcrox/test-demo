@@ -34,6 +34,8 @@ public class AppTest
     public void testApp()
     {
 	// Testing Git rebasing
+	// testing git rebasing of the new feature
+	// testing!!!!
         assertTrue( true );
     }
 }
