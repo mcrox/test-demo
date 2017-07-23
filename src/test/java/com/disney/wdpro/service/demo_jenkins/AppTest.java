@@ -25,11 +25,8 @@ public class AppTest
      */
     public static Test suite()
     {
-<<<<<<< HEAD
 		// revert 1
 		// revert 2
-=======
->>>>>>> parent of bb03634... new commit to revert 1 later
         return new TestSuite( AppTest.class );
     }
 
