@@ -33,6 +33,7 @@ public class AppTest
      */
     public void testApp()
     {
+	// Testing Git rebasing
         assertTrue( true );
     }
 }
