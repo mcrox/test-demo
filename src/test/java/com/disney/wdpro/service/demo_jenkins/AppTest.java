@@ -26,6 +26,7 @@ public class AppTest
     public static Test suite()
     {
 		// revert 1
+		// revert 2
         return new TestSuite( AppTest.class );
     }
 
